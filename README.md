@@ -22,7 +22,6 @@ Apple_iPhone_Sales_Analysis/
 │   ├── raw/                  # Raw Excel and CSV shipment datasets (2020–2026)
 │   └── processed/            # Cleaned and feature-engineered datasets
 │
-├── excel/                    # Excel analysis workbooks and calculations
 ├── sql/                      # MySQL database creation and analysis scripts
 ├── notebooks/                # Python EDA & Machine Learning forecasting notebooks
 ├── dashboard/                # Power BI Dashboard (.pbix) file
